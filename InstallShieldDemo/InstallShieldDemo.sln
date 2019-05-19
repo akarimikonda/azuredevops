@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "InstallShieldDemo.App", "InstallShieldDemo.App", "{9E99B775-358D-4FEF-A9C0-D587106BAFD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstallShieldDemo.App", "InstallShieldDemo.App\InstallShieldDemo.App.csproj", "{DC7A5227-978A-46E7-9DD5-75C8B19738EB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "InstallShieldDemo.Deploy", "InstallShieldDemo.Deploy", "{5D3FC514-CB9A-41FB-AF38-08C72ED245FD}"
+EndProject
+Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "InstallShieldDemo.Deploy", "InstallShieldDemo.Deploy\InstallShieldDemo.Deploy.isproj", "{F764347D-ED8F-4684-8E8B-96C9E946B64F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{DC7A5227-978A-46E7-9DD5-75C8B19738EB} = {DC7A5227-978A-46E7-9DD5-75C8B19738EB}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC7A5227-978A-46E7-9DD5-75C8B19738EB}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{DC7A5227-978A-46E7-9DD5-75C8B19738EB}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{DC7A5227-978A-46E7-9DD5-75C8B19738EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC7A5227-978A-46E7-9DD5-75C8B19738EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC7A5227-978A-46E7-9DD5-75C8B19738EB}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC7A5227-978A-46E7-9DD5-75C8B19738EB}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{DC7A5227-978A-46E7-9DD5-75C8B19738EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC7A5227-978A-46E7-9DD5-75C8B19738EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC7A5227-978A-46E7-9DD5-75C8B19738EB}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{DC7A5227-978A-46E7-9DD5-75C8B19738EB}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{F764347D-ED8F-4684-8E8B-96C9E946B64F}.CD_ROM|Any CPU.ActiveCfg = CD_ROM
+		{F764347D-ED8F-4684-8E8B-96C9E946B64F}.CD_ROM|Any CPU.Build.0 = CD_ROM
+		{F764347D-ED8F-4684-8E8B-96C9E946B64F}.Debug|Any CPU.ActiveCfg = DVD-5
+		{F764347D-ED8F-4684-8E8B-96C9E946B64F}.Debug|Any CPU.Build.0 = DVD-5
+		{F764347D-ED8F-4684-8E8B-96C9E946B64F}.DVD-5|Any CPU.ActiveCfg = DVD-5
+		{F764347D-ED8F-4684-8E8B-96C9E946B64F}.DVD-5|Any CPU.Build.0 = DVD-5
+		{F764347D-ED8F-4684-8E8B-96C9E946B64F}.Release|Any CPU.ActiveCfg = SingleImage
+		{F764347D-ED8F-4684-8E8B-96C9E946B64F}.Release|Any CPU.Build.0 = SingleImage
+		{F764347D-ED8F-4684-8E8B-96C9E946B64F}.SingleImage|Any CPU.ActiveCfg = SingleImage
+		{F764347D-ED8F-4684-8E8B-96C9E946B64F}.SingleImage|Any CPU.Build.0 = SingleImage
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DC7A5227-978A-46E7-9DD5-75C8B19738EB} = {9E99B775-358D-4FEF-A9C0-D587106BAFD4}
+		{F764347D-ED8F-4684-8E8B-96C9E946B64F} = {5D3FC514-CB9A-41FB-AF38-08C72ED245FD}
+	EndGlobalSection
+EndGlobal

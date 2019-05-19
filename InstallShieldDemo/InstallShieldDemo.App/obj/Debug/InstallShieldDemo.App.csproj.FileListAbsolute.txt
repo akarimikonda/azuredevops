@@ -1,0 +1,13 @@
+D:\InstallShieldDemo\InstallShieldDemo.App\bin\Debug\InstallShieldDemo.App.exe.config
+D:\InstallShieldDemo\InstallShieldDemo.App\bin\Debug\InstallShieldDemo.App.exe
+D:\InstallShieldDemo\InstallShieldDemo.App\bin\Debug\InstallShieldDemo.App.pdb
+D:\InstallShieldDemo\InstallShieldDemo.App\obj\Debug\InstallShieldDemo.App.csprojResolveAssemblyReference.cache
+D:\InstallShieldDemo\InstallShieldDemo.App\obj\Debug\MainWindow.baml
+D:\InstallShieldDemo\InstallShieldDemo.App\obj\Debug\MainWindow.g.cs
+D:\InstallShieldDemo\InstallShieldDemo.App\obj\Debug\App.g.cs
+D:\InstallShieldDemo\InstallShieldDemo.App\obj\Debug\InstallShieldDemo.App_MarkupCompile.cache
+D:\InstallShieldDemo\InstallShieldDemo.App\obj\Debug\InstallShieldDemo.App.g.resources
+D:\InstallShieldDemo\InstallShieldDemo.App\obj\Debug\InstallShieldDemo.App.Properties.Resources.resources
+D:\InstallShieldDemo\InstallShieldDemo.App\obj\Debug\InstallShieldDemo.App.csproj.GenerateResource.Cache
+D:\InstallShieldDemo\InstallShieldDemo.App\obj\Debug\InstallShieldDemo.App.exe
+D:\InstallShieldDemo\InstallShieldDemo.App\obj\Debug\InstallShieldDemo.App.pdb
